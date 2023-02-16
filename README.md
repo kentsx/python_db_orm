@@ -19,9 +19,3 @@ pip install sqlalchemy==1.4.46
 
 _以下对SQLAlchemy简称SA_
 {% endhint %}
-
-
-
-```python
-```
-
